@@ -1,7 +1,7 @@
 # VAE-GANMDA：A Microbe-Drug Association Prediction Model Integrating Variational Autoencoders and Generative Adversarial Networks
 
 # VAE-GANMDA Overall Architecture Diagram
-![image](https://github.com/user-attachments/assets/3c67c705-374d-421b-9323-fc90378a92f8)
+![image](https://github.com/user-attachments/assets/c83d7910-d835-42f6-8620-968aab72ee59)
 
 VAE-GANMDA overall workflow: 
 Step 1: Integrate multi-source information regarding microbes and drugs, incorporating their similarities to construct an associated feature network. 
